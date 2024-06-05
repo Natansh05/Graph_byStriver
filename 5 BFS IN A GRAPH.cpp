@@ -1,5 +1,5 @@
 // link - geeksforgeeks.org/problems/bfs-traversal-of-graph/1
-// Time Complexity - O(N)
+// Time Complexity - O(N + 2E) ----2E is because of the the inner loop for adjacency list
 // Space Complexity - O(N)
 
 class Solution {
