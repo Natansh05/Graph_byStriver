@@ -1,6 +1,6 @@
 // link - https://leetcode.com/problems/is-graph-bipartite/description/
-// Time Complexity - O(N)
-// Space Complexity - O(N)
+// Time Complexity - O(N + N+2E)
+// Space Complexity - O(N) + O(N)
 
 class Solution {
     bool check(int start,vector<vector<int>>& adj,vector<int> &colour){
