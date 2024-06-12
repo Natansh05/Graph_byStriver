@@ -1,5 +1,5 @@
 // link - https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1
-// Time Complexity - O(V^2)
+// Time Complexity - O(V*E)
 // Space Complexity - O(V)
 
 class Solution {
